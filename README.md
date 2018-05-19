@@ -32,7 +32,7 @@ cd vigir_footstep_install
  * `git clone https://gitlab.pcs.cnu.edu/vigir_footstep_devel_one/vigir_footstep_install.git `
 
 3. Change to correct branch
- `git checkout kinetic_devel`
+ `git checkout master`
  * While not necessary for this project, this version has the CHRISLab iRobot Create and Kobuki-based Turtlebot setup, including the complete `flexible_navigation` demonstration.
 
 4. Run the install script
