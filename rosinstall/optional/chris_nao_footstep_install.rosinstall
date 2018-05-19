@@ -1,0 +1,1 @@
+- git: {local-name: src/chris_nao_footstep_core, uri: 'https://gitlab.pcs.cnu.edu/vigir_footstep_devel_one/chris_nao_footstep_core.git', version: master }
